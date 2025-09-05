@@ -1,0 +1,24 @@
+# Arquivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Diretórios de build
+/bin/
+/out/
+/target/
+
+# Arquivos temporários da IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Configurações de sistema
+.DS_Store
+Thumbs.db
+
+# Evitar versionar o arquivo de dados
+*.txt
