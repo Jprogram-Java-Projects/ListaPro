@@ -15,6 +15,9 @@
 *.iws
 .idea/
 .vscode/
+.classpath
+.project
+.settings/
 
 # Configurações de sistema
 .DS_Store
